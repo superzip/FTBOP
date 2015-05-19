@@ -1,5 +1,5 @@
-# ModPack Permissions
-Credit goes to the mod developers for all of their hard work.
+## ModPack Permissions
+Credit goes to the mod developers for all of their hard work.  Below are the documents with all needed information for modpack permission.
 
 [Primary Sheet](https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM)
 

@@ -5,6 +5,8 @@ A tech, magic and over powered themed modpack inspired by the Direwolf20 pack.  
 
 ### [Mods List](Mods-List.md)
 
+### [Configuration Changes](Configuration-Changes.md)
+
 ### [Change Log](Change-Log.md)
 
 ### [ModPack Permissions](ModPack-Permissions.md)

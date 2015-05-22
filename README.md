@@ -16,3 +16,5 @@ Java 7 minimum, works with Java 8.
 ### [Change Log](Change-Log.md)
 
 ### [ModPack Permissions](ModPack-Permissions.md)
+
+I will probably do a 1.8 version of the pack when the time is right, all suggestions welcome…

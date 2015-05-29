@@ -19,6 +19,10 @@ Thaumcraft NEI Plugin
 **Open Blocks:** Disabled fluid registry for tank.<br>
 **ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.
 
+#### Removed From Server:
+InventoryTweaks-1.59-dev-156 (Derp!)
+MineMenu-1.7.10-1.2.0.B44 (Derp!)
+
 #### Other:
 1. Did not update to the latest Magical Crops 4 beta 3 due to a world failing to load issue.
 2. Did not update to the latest Sanguimancy 1.1.9-30 due to a rare world failing to load issue.

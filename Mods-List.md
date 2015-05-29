@@ -57,7 +57,6 @@ industrialcraft-2-2.2.726-experimental<br>
 InfernalMobs-1.7.10-1.6.1<br>
 InfiniBows-1.7.10-coremod-1.3.0.20<br>
 INpureCore-[1.7.10]1.0.0B9-62<br>
-InventoryTweaks-1.59-dev-156<br>
 ironchest-1.7.10-6.0.62.742<br>
 Jabba-1.2.1a_1.7.10<br>
 logisticspipes-0.8.3.122<br>
@@ -69,9 +68,7 @@ MekanismGenerators-1.7.10-8.1.3.231<br>
 MekanismTools-1.7.10-8.1.3.231<br>
 Minechem-1.7.10-5.0.5.398<br>
 MineFactoryReloaded-[1.7.10]2.8.0-104<br>
-MineMenu-1.7.10-1.2.0.B44<br>
 Morph-Beta-0.9.1<br>
-MouseTweaks-2.4.4-mc1.7.10<br>
 natura-1.7.10-2.2.0.1<br>
 NaturalAbsorption-1.7.10-1.2.1<br>
 neiaddons-1.12.8.29-mc1.7.10<br>
@@ -122,16 +119,22 @@ Wawla-1.2.1_1.7.10<br>
 witchery-1.7.10-0.24.1<br>
 WR-CBE-1.7.10-1.4.1.9
 
+### Client Mods:<br>
+InventoryTweaks-1.59-dev-156<br>
+MineMenu-1.7.10-1.2.0.B44<br>
+MouseTweaks-2.4.4-mc1.7.10
+
 ### Server Mods:<br>
 AdminCommandsToolbox-0.0.2a_1.7.10<br>
+Morpheus-1.7.10-1.6.4<br>
 ServerTools-CORE-1.7.10-2.2.0.79<br>
 ServerTools-TELEPORT-1.7.10-2.2.0.13
 
-### Disabled Client Mods:<br>
+### Disabled Mods On Client:<br>
 AromaBackup-1.7.10-0.0.0.5<br>
 HelpFixer-1.1.9<br>
 MobiusCore-1.2.5_1.7.10<br>
 Opis-1.2.5_1.7.10
 
-### Disabled Server Mods:<br>
+### Disabled Mods On Server:<br>
 AromaBackup-1.7.10-0.0.0.5

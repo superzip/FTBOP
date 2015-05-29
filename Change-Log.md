@@ -11,6 +11,7 @@ Thaumcraft NEI Plugin
 
 #### Changed:
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
+**iChunUtil:** Disabled stats collection.<br>
 **MapWriter:** Disabled maps.<br>
 **Mekanism:** Disabled fluid registry for portable tank, enabled voice server again (will test and see if it works yet)<br>
 **Minechem:** Changed energy transfer & buffer to 10x default.<br>

@@ -5,6 +5,7 @@
 **BuildCraft:** Disabled Filler and Builder (world breaking bug). (May be fixed in latest BC…)<br>
 **COFH:** Disabled NPC death messages.<br>
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
+**iChunUtil:** Disabled stats collection.<br>
 **Infernal Mobs:** Disabled ender/ninja infernal buffs.<br>
 **Magical Crops:** Disabled second seed drop (Already silly OP enough, can be automated).<br>
 **MapWriter:** Disabled maps.<br>

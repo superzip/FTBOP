@@ -3,7 +3,7 @@
 ### 1.0.6 (5-28-2015):
 Released on Technic Launcher 6-##-2015
 
-[Updated Mods](Updated-Mods/1.0.6.md)
+### [Updated Mods](Updated-Mods/1.0.6.md)
 
 #### Added:
 Enhanced Portals<br>

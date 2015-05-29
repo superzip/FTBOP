@@ -19,5 +19,6 @@ Thaumcraft NEI Plugin
 **ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.
 
 #### Other:
-1. Did not update to the latest Magical Crops 4 beta 3 due to a world failing to load issue.<br>
+1. Did not update to the latest Magical Crops 4 beta 3 due to a world failing to load issue.
 2. Did not update to the latest Sanguimancy 1.1.9-30 due to a rare world failing to load issue.
+3. Deleted all unused config files/folders.

@@ -107,7 +107,6 @@ ThaumicExploration-1.7.10-1.1-37<br>
 ThaumicTinkerer-2.5-1.7.10-502<br>
 ThermalExpansion-[1.7.10]4.0.1-182<br>
 ThermalFoundation-[1.7.10]1.0.0-81<br>
-TiCTooltips-mc1.7.10-1.2.4<br>
 TMechworks-1.7.10-0.2.14.100<br>
 Translocator-1.7.10-1.1.1.14<br>
 twilightforest-1.7.10-2.3.7<br>
@@ -122,7 +121,8 @@ WR-CBE-1.7.10-1.4.1.9
 ### Client Only Mods:
 InventoryTweaks-1.59-dev-156<br>
 MineMenu-1.7.10-1.2.0.B44<br>
-MouseTweaks-2.4.4-mc1.7.10
+MouseTweaks-2.4.4-mc1.7.10<br>
+TiCTooltips-mc1.7.10-1.2.4
 
 ### Server Only Mods:
 AdminCommandsToolbox-0.0.2a_1.7.10<br>

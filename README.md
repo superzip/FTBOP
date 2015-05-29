@@ -5,7 +5,7 @@ A tech, magic and over powered themed modpack inspired by the Direwolf20 pack.  
 
 Mods already at a stable version won’t be updated until another stable version is available (unless we are forced into updating), beta/alpha mods will continue to receive updates of any kind until they are considered stable.  World resets will NOT be required (at least that’s the goal).
 
-Requirements:<br>
+### Requirements:
 Minimum of 2GB allocated RAM.  2GB minimum and 3GB maximum will be set.<br>
 Java 7 minimum, works with Java 8.
 

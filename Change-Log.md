@@ -1,12 +1,13 @@
 ## Change Log
 
-1.0.6 (5-18-2015):<br>
-Released on Technic Launcher 5-##-2015
+1.0.6 (5-28-2015):<br>
+Released on Technic Launcher 6-##-2015
 
 [Updated Mods](Updated-Mods/1.0.6.md)
 
 Added:<br>
 Enhanced Portals
+Thaumcraft NEI Plugin
 
 Changed:<br>
 Evilcraft: Disabled fluid registry for dark tank.<br>

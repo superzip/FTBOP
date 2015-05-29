@@ -1,11 +1,11 @@
 ## Mods List
 
+### Client/Server Mods:<br>
 forge-1.7.10-10.13.3.1408<br>
 advancedgenetics-1.7.10-1.5.8<br>
 AOBD-2.6.2<br>
 appliedenergistics2-rv2-stable-3<br>
 Aroma1997Core-1.7.10-1.0.2.13<br>
-AromaBackup-1.7.10-0.0.0.5.disabled<br>
 Automagy-1.7.10-0.24<br>
 bdlib-1.8.0.86-mc1.7.10<br>
 BetterChests-1.7.10-1.1.1.9<br>
@@ -51,7 +51,6 @@ gendustry-1.4.11.89-mc1.7.10<br>
 Guide-API-1.7.10-1.0.0-16<br>
 Hats-4.0.1<br>
 HatStand-4.0.0<br>
-HelpFixer-1.1.9.disabled<br>
 IC2NuclearControl-2.2.5a-GoingForTheKill<br>
 iChunUtil-4.2.2<br>
 industrialcraft-2-2.2.726-experimental<br>
@@ -71,7 +70,6 @@ MekanismTools-1.7.10-8.1.3.231<br>
 Minechem-1.7.10-5.0.5.398<br>
 MineFactoryReloaded-[1.7.10]2.8.0-104<br>
 MineMenu-1.7.10-1.2.0.B44<br>
-MobiusCore-1.2.5_1.7.10.disabled<br>
 Morph-Beta-0.9.1<br>
 MouseTweaks-2.4.4-mc1.7.10<br>
 natura-1.7.10-2.2.0.1<br>
@@ -85,7 +83,6 @@ OpenModsLib-1.7.10-0.7.3-snapshot-365<br>
 OpenPeripheralAddons-1.7.10-0.3.1-snapshot-199<br>
 OpenPeripheralCore-1.7.10-1.1.1-snapshot-231<br>
 OpenPeripheralIntegration-1.7.10-0.2.2-snapshot-68<br>
-Opis-1.2.5_1.7.10.disabled<br>
 PneumaticCraft-1.7.10-1.7.0-74<br>
 practicalities-1.7.10-0.6.2<br>
 ProjectE-1.7.10-PE1.4.7<br>
@@ -124,3 +121,17 @@ WaslieCore-1.1_B44<br>
 Wawla-1.2.1_1.7.10<br>
 witchery-1.7.10-0.24.1<br>
 WR-CBE-1.7.10-1.4.1.9
+
+### Server Mods:<br>
+AdminCommandsToolbox-0.0.2a_1.7.10<br>
+ServerTools-CORE-1.7.10-2.2.0.79<br>
+ServerTools-TELEPORT-1.7.10-2.2.0.13
+
+### Disabled Client Mods:<br>
+AromaBackup-1.7.10-0.0.0.5<br>
+HelpFixer-1.1.9<br>
+MobiusCore-1.2.5_1.7.10<br>
+Opis-1.2.5_1.7.10
+
+### Disabled Server Mods:<br>
+AromaBackup-1.7.10-0.0.0.5

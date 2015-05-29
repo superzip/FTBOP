@@ -1,6 +1,6 @@
 ## Mods List
 
-### Client/Server Mods:<br>
+### Client/Server Mods:
 forge-1.7.10-10.13.3.1408<br>
 advancedgenetics-1.7.10-1.5.8<br>
 AOBD-2.6.2<br>

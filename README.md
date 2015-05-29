@@ -1,5 +1,5 @@
 ## Free To Be OP 1.0.6
-### By Anarcraft & [Team Underground Lounge](http://uglounge.com)
+### By Anarcraft & Team [Underground Lounge](http://uglounge.com)
 
 A tech, magic and over powered themed modpack inspired by the Direwolf20 pack.  It can be found on the Technic Launcher. (NOT YET!)
 

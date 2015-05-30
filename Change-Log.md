@@ -1,6 +1,6 @@
 ## Change Log
 
-### 1.0.6 (5-28-2015):
+### 1.0.6: The Extra Thorough Update (5-28-2015):
 Released on Technic Launcher 6-##-2015
 
 ### [Updated Mods](Updated-Mods/1.0.6.md)
@@ -11,8 +11,8 @@ Thaumcraft NEI Plugin
 
 #### Changed:
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
-**iChunUtil:** Disabled stats collection.<br>
-**MapWriter:** Disabled maps.<br>
+**iChun Util:** Disabled stats collection.<br>
+**Map Writer:** Disabled maps.<br>
 **Mekanism:** Disabled fluid registry for portable tank, enabled voice server again (will test and see if it works yet)<br>
 **Minechem:** Changed energy transfer & buffer to 10x default.<br>
 **Natural Absorbtion:** Enabled armor bar.<br>
@@ -20,9 +20,10 @@ Thaumcraft NEI Plugin
 **ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.
 
 #### Removed From Server:
-InventoryTweaks (Derp!)<br>
-MineMenu (Derp!)<br>
-TiCTooltips (Derp!)
+Inventory Tweaks (Derp!)<br>
+Mine Menu (Derp!)<br>
+TiC Tooltips (Derp!)<br>
+Waila Harvestability (Derp!)
 
 #### Other:
 1. Did not update to the latest Magical Crops 4 beta 3 due to a world failing to load issue.

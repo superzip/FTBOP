@@ -101,7 +101,6 @@ Talismans-1.7.10-1.1.4<br>
 TConstruct-1.7.10-1.8.5<br>
 Thaumcraft-1.7.10-4.2.3.5<br>
 ThaumcraftGates-1.4.0<br>
-thaumcraftneiplugin-1.7.10-1.7<br>
 thaumicenergistics-0.8.10.5<br>
 ThaumicExploration-1.7.10-1.1-37<br>
 ThaumicTinkerer-2.5-1.7.10-502<br>
@@ -112,7 +111,6 @@ Translocator-1.7.10-1.1.1.14<br>
 twilightforest-1.7.10-2.3.7<br>
 UtilityMobs-1.7.10-3.1.1<br>
 Waila-1.5.10_1.7.10<br>
-WailaHarvestability-mc1.7.x-1.1.2<br>
 WaslieCore-1.1_B44<br>
 Wawla-1.2.1_1.7.10<br>
 witchery-1.7.10-0.24.1<br>
@@ -122,7 +120,9 @@ WR-CBE-1.7.10-1.4.1.9
 InventoryTweaks-1.59-dev-156<br>
 MineMenu-1.7.10-1.2.0.B44<br>
 MouseTweaks-2.4.4-mc1.7.10<br>
-TiCTooltips-mc1.7.10-1.2.4
+thaumcraftneiplugin-1.7.10-1.7<br>
+TiCTooltips-mc1.7.10-1.2.4<br>
+WailaHarvestability-mc1.7.x-1.1.2
 
 ### Server Only Mods:
 AdminCommandsToolbox-0.0.2a_1.7.10<br>

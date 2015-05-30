@@ -15,6 +15,7 @@
 **Open Blocks:** Disabled fluid registry for tank.<br>
 **PneumaticCraft:** Disabled seed mob drops.<br>
 **ProjectE:** Enabled nether star recipes & knowledge tome, set EMC value of blaze rod and blaze powder to 32 and 16, respectively, to prevent exploits, watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.<br>
+**Random Things:** Set BloodMoonSpawnLimitMult=1 and BloodMoonSpawnRange=8.<br>
 **Special Mobs:** Trolling disabled.
 
 ### Client:

@@ -17,7 +17,8 @@ Thaumcraft NEI Plugin
 **Minechem:** Changed energy transfer & buffer to 10x default.<br>
 **Natural Absorbtion:** Enabled armor bar.<br>
 **Open Blocks:** Disabled fluid registry for tank.<br>
-**ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.
+**ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.<br>
+**Sanguimancy:** Disabled "renderSillyAprilFish".
 
 #### Removed From Server:
 Inventory Tweaks (Derp!)<br>

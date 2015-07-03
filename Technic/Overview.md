@@ -1,10 +1,7 @@
-FTBOP is a pack with many over powered, magical and technology mods with a few adventure mods.  With 184 mods there's a huge myriad of things to do.  Your biggest problem will probably be "where to begin?".
-However, for every action there is a reaction, a balance.  Don't think just because you can be overpowered everything is going to be hunky dory, the mobs too are also free to be OP.
+The "Free To Be OverPowered" (FTBOP) modpack, is loaded with many of your favorite mods, no matter if you want to build your dream base with magic, tech or want to explore the world. But be warned you are not the only one who is free to be OP, we have let the monsters have that right too.
 
-FTBOP has been in development since Fall of 2014 with stability and performance as the primary focus.
+With it's 184 mods, FTBOP has been in development since Fall of 2014 with both stability and performance as the primary focus, and now it is finally ready.
 
-For a full mod list, change log, etc see the following repository.
-github.com/Anarcraft/FTBOP
+Included in the pack's server list is the official FTBOP sever over at UndergroundLounge. The server has no whitelist so feel free to stop by and say hello. UgL has a mature, friendly community who is very experienced with modded Minecraft. uglounge.com
 
-Included in the pack's server list is the official FTBOP sever over at UndergroundLounge.  The server is no whitelist so feel free to stop by and say hello.  UgL has a mature, friendly community who is very experienced with modded Minecraft.
-uglounge.com
+For a full mod list, change log, etc see the following repository. github.com/Anarcraft/FTBOP

@@ -20,6 +20,6 @@ Java 7 minimum, works with Java 8.
 ### [ModPack Permissions](ModPack-Permissions.md)
 
 ### Underground Lounge:
-FTBOP was made for and by the UgL community.  Check it out at [the website](http://www.uglouge.com).
+FTBOP was made for and by the UgL community.  Check it out at [the website](http://www.uglounge.com).
 
 I will do a 1.8 version of the pack when the time is right, all suggestions are welcome…

@@ -2,11 +2,10 @@
 
 ### Client/Server:
 **Forge:** Enabled delete erroring entities and tile entities instead of crashing the server.<br>
-**BuildCraft:** Disabled Filler and Builder (world breaking bug). (May be fixed in latest BC…)<br>
 **COFH:** Disabled NPC death messages.<br>
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
 **iChun Util:** Disabled stats collection.<br>
-**Infernal Mobs:** Disabled ender/ninja infernal buffs.<br>
+**Hardcore Ender Expansion:** Disabled temple caller, enabled over powered mobs in the end.<br>
 **Magical Crops:** Disabled second seed drop (Already silly OP enough, can be automated).<br>
 **Map Writer:** Disabled maps.<br>
 **Mekanism:** Disabled fluid registry for portable tank, enabled voice server again (will test and see if it works yet), tin/copper generation disabled.<br>
